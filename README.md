@@ -12,3 +12,9 @@ With experience in Python, Django, Angular, React, and JavaScript, I'm committed
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRed8X&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XRed8X&show_icons=true&count_private=true)
