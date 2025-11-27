@@ -15,6 +15,6 @@ With experience in Python, Django, Angular, React, and JavaScript, I'm committed
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRed8X&layout=compact&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRed8X&layout=compact&langs_count=10&theme=dark&cache_seconds=180)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XRed8X&show_icons=true&count_private=true&theme=dark)
