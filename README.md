@@ -20,11 +20,12 @@ Passionate about backend optimization, system integration, and continuous improv
 
 ### 📊 GitHub Stats
 
-| ![Metrics](https://metrics.lecoq.io/XRed8X?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XRed8X&theme=dark) |
+| ![Metrics](https://metrics.lecoq.io/XRed8X?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&cache_seconds=180) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XRed8X&theme=dark&cache_seconds=180) |
 | --- | --- |
 
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XRed8X&theme=dark) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XRed8X&theme=dark&cache_seconds=1800) |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XRed8X&theme=dark&cache_seconds=180) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XRed8X&theme=dark&cache_seconds=180) |
 | --- | --- |
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XRed8X&show_icons=true&count_private=true&theme=dark&cache_seconds=1800) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRed8X&layout=compact&langs_count=10&theme=dark&cache_seconds=1800) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XRed8X&show_icons=true&count_private=true&theme=dark&cache_seconds=180) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRed8X&layout=compact&langs_count=10&theme=dark&cache_seconds=180) |
 | --- | --- |
+
